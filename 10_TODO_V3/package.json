@@ -1,12 +1,12 @@
 {
-  "homepage": "https://ritankjaikar.github.io/TODO-React-Context-API/10_TODO_V3/",
+  "homepage": "https://ritankjaikar.github.io/TODO-React-Context-API/",
   "name": "10-todo-v2",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist/10_TODO_V3",
+    "deploy": "gh-pages -d dist",
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
